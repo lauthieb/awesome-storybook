@@ -1,4 +1,4 @@
-# awesome-storybook
+# awesome-storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources about [Storybook](https://storybook.js.org)'s ecosystem :art:
 
@@ -10,6 +10,7 @@
   - [Presentations](#presentations)
   - [Blog posts](#blog-posts)
 - [Examples](#examples)
+- [License](#license)
 
 ---
 
@@ -57,3 +58,9 @@
 - [Airbnb (react-dates)](https://airbnb.io/react-dates/)
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Laurent Thiebault](https://lauthieb.github.io) has waived all copyright and related or neighboring rights to this work.
