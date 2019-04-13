@@ -52,8 +52,8 @@
 
 ## Examples
 
-- [Storybook storybook](https://storybooks-official.netlify.com)
-- [Github storybook](https://primer.github.io/storybook/)
-- [Airbnb react-dates storybook](https://airbnb.io/react-dates/)
-- [Salesforce storybook](https://mashmatrix.github.io/react-lightning-design-system/)
-- [Auth0 storybook](https://auth0-cosmos.now.sh/sandbox/)
+- [Storybook Design System](https://storybooks-official.netlify.com)
+- [Github Design System](https://primer.github.io/storybook/)
+- [Airbnb (react-dates)](https://airbnb.io/react-dates/)
+- [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
+- [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
