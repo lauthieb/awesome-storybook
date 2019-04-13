@@ -1,17 +1,59 @@
 # awesome-storybook
 
-A collection of awesome resources about Storybook's ecosystem :art:
+> A curated list of awesome resources about [Storybook](https://storybook.js.org)'s ecosystem :art:
 
-- [Storybook](#storybook)
-  - [Storybook General Resources](#storybook-general-resources)
+- [What is Storybook?](#what-is-storybook)
+- [Resources](#resources)
+  - [Official Resources](#official-resources)
+  - [Community](#community)
+  - [Tutorials](#tutorials)
+  - [Presentations](#presentations)
+  - [Blog posts](#blog-posts)
+- [Examples](#examples)
 
 ---
 
-### Storybook
+## What is Storybook?
 
-> A frontend tool for building UI components faster and easier.
+> An awesome frontend tool for building UI components faster and easier.
 
-#### Storybook General Resources
+## Resources
 
-- [Storybook Official Site](https://storybook.js.org)
-- [Storybook GitHub](https://github.com/storybooks)
+### Official resources
+
+- [Website](https://storybook.js.org)
+- [Documentation](https://storybook.js.org/docs/basics/introduction/)
+- [GitHub repo](https://github.com/storybooks)
+
+### Community
+
+- [Twitter](https://twitter.com/storybookjs)
+- [Discord](https://discordapp.com/invite/UUt2PJb)
+- [Medium](https://medium.com/storybookjs)
+- [DEV.to](https://dev.to/t/storybook)
+- [Brand's materials](https://github.com/storybooks/brand)
+- [Design system](https://storybooks-official.netlify.com)
+
+### Tutorials
+
+- [Learn Storybook](https://www.learnstorybook.com/)
+- [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development)
+
+### Presentations
+
+- [React Storybook Tutorial with Examples - Getting Started with React Storybook](https://www.youtube.com/watch?v=E2c183LS4lA)
+- [React Storybook: Design, Dev, Doc, Debug Components - React Conf 2017](https://www.youtube.com/watch?v=PF0Vi-iIyoo)
+
+### Blog posts
+
+- [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od)
+- [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06)
+- [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project)
+
+## Examples
+
+- [Storybook storybook](https://storybooks-official.netlify.com)
+- [Github storybook](https://primer.github.io/storybook/)
+- [Airbnb react-dates storybook](https://airbnb.io/react-dates/)
+- [Salesforce storybook](https://mashmatrix.github.io/react-lightning-design-system/)
+- [Auth0 storybook](https://auth0-cosmos.now.sh/sandbox/)
