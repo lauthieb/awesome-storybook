@@ -2,6 +2,8 @@
 
 > A curated list of awesome resources about [Storybook](https://storybook.js.org)'s ecosystem :art:
 
+## Contents
+
 - [What is Storybook?](#what-is-storybook)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
