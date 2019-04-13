@@ -1,5 +1,7 @@
 # awesome-storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+[<img src="storybook-logo.svg" align="right" width="60">](https://storybook.js.org)
+
 > A curated list of awesome resources about [Storybook](https://storybook.js.org)'s ecosystem :art:
 
 ## Contents
