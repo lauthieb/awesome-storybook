@@ -1,12 +1,15 @@
 # awesome-storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[<img src="storybook-logo.svg" align="right" width="60">](https://storybook.js.org)
+[<img src="storybook-logo.svg" align="right" width="80">](https://storybook.js.org)
 
-> A curated list of awesome resources about [Storybook](https://storybook.js.org)'s ecosystem :art:
+> A curated list of awesome resources about Storybook's ecosystem :art:
+
+[Storybook](https://storybook.js.org) is a frontend tool for building UI components faster and easier.
+
+Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
 ## Contents
 
-- [What is Storybook?](#what-is-storybook)
 - [Resources](#resources)
   - [Official Resources](#official-resources)
   - [Community](#community)
@@ -17,10 +20,6 @@
 - [License](#license)
 
 ---
-
-## What is Storybook?
-
-> An awesome frontend tool for building UI components faster and easier.
 
 ## Resources
 
