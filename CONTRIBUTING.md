@@ -9,6 +9,7 @@ Please note that this project is released with a [Contributor Code of Conduct](c
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
 - End all descriptions with a full stop/period.
+- Suggested blog posts or presentations must be ordered from newest to oldest.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 
