@@ -45,6 +45,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Presentations
 
+- [Storybook, le playground qu'il vous faut pour vos composants UI! (FR)](https://www.youtube.com/watch?v=zMpSwo03aKo)
 - [React Storybook Tutorial with Examples - Getting Started with React Storybook](https://www.youtube.com/watch?v=E2c183LS4lA)
 - [React Storybook: Design, Dev, Doc, Debug Components - React Conf 2017](https://www.youtube.com/watch?v=PF0Vi-iIyoo)
 
