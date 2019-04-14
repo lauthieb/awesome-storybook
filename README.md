@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Presentations](#presentations)
   - [Blog posts](#blog-posts)
 - [Examples](#examples)
+- [Addons](#addons)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -66,6 +67,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
+
+## Addons
+
+The official & community addons lists are available in the Storybook's [Addon Gallery](https://storybook.js.org/docs/addons/addon-gallery/).
 
 ## Contributing
 
