@@ -17,6 +17,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Presentations](#presentations)
   - [Blog posts](#blog-posts)
 - [Examples](#examples)
+- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -66,7 +67,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
 
-# Contributing
+## Contributing
 
 Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
