@@ -11,8 +11,8 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Contents
 
 - [Resources](#resources)
-  - [Official Resources](#official-resources)
-  - [Community](#community)
+  - [Official resources](#official-resources)
+  - [Community resources](#community-resources)
   - [Tutorials](#tutorials)
   - [Presentations](#presentations)
   - [Blog posts](#blog-posts)
@@ -62,7 +62,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8)
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/)
 - [Setting up Storybook for Preact](https://www.iamdeveloper.com/blog/2018-09-02-setting-up-storybook-for-preact/)
-- [Setting Up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/)
+- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/)
 - [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od)
 - [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06)
 - [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project)
