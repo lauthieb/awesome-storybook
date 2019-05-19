@@ -76,6 +76,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
+- [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example)
 
 ## Addons
 
