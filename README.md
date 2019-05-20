@@ -25,11 +25,11 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Official resources
 
-- [Website](https://storybook.js.org)
-- [Documentation](https://storybook.js.org/docs/basics/introduction/)
-- [GitHub repo](https://github.com/storybooks)
-- [Use cases](https://storybook.js.org/use-cases/)
-- [Team](https://storybook.js.org/team/)
+- [Website](https://storybook.js.org) - Storybook's official website.
+- [Documentation](https://storybook.js.org/docs/basics/introduction/) - Storybook's official documentation.
+- [GitHub repo](https://github.com/storybooks) - Storybook's organization on Github.
+- [Use cases](https://storybook.js.org/use-cases/) - Most common use cases about Storybook.
+- [Team](https://storybook.js.org/team/) - The core team of Storybook.
 
 ### Community resources
 
@@ -37,13 +37,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Discord](https://discordapp.com/invite/UUt2PJb)
 - [Medium](https://medium.com/storybookjs)
 - [DEV.to](https://dev.to/t/storybook)
-- [Brand's materials](https://github.com/storybooks/brand)
-- [Design system](https://storybooks-official.netlify.com)
-- [Storybook Deployer](https://github.com/storybooks/storybook-deployer)
+- [Brand's materials](https://github.com/storybooks/brand) - Materials for your articles and talks about Storybook.
+- [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
+- [Storybook Deployer](https://github.com/storybooks/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ### Tutorials
 
-- [Learn Storybook](https://www.learnstorybook.com/)
+- [Learn Storybook](https://www.learnstorybook.com/) - A set of tutorials to learn Storybook.
 - [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development)
 - [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM)
 - [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o)
