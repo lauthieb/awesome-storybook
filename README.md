@@ -18,8 +18,6 @@ Contributions welcome. Add links through pull requests or create an issue to sta
   - [Blog posts](#blog-posts)
 - [Examples](#examples)
 - [Addons](#addons)
-- [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -71,7 +69,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Examples
 
 - [Storybook Design System](https://storybooks-official.netlify.com)
-- [Github Design System](https://primer.github.io/storybook/)
+- [GitHub Design System](https://primer.github.io/storybook/)
 - [Airbnb (react-dates)](https://airbnb.io/react-dates/)
 - [Salesforce Design System](https://mashmatrix.github.io/react-lightning-design-system/)
 - [Auth0 Design System](https://auth0-cosmos.now.sh/sandbox/)

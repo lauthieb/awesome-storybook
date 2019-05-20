@@ -1,0 +1,26 @@
+{
+  "name": "awesome-storybook",
+  "version": "1.0.0",
+  "description": "A curated list of awesome resources about Storybook's ecosystem",
+  "scripts": {
+    "test": "awesome-lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lauthieb/awesome-storybook.git"
+  },
+  "keywords": [
+    "awesome",
+    "awesome-list",
+    "storybook"
+  ],
+  "author": "Laurent THIEBAULT",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/lauthieb/awesome-storybook/issues"
+  },
+  "homepage": "https://github.com/lauthieb/awesome-storybook#readme",
+  "devDependencies": {
+    "awesome-lint": "*"
+  }
+}
