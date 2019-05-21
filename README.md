@@ -1,4 +1,4 @@
-# awesome-storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Storybook [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="storybook-logo.svg" align="right" width="80">](https://storybook.js.org)
 
