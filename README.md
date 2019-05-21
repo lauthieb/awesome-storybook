@@ -39,9 +39,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Tutorials
 
 - [Learn Storybook](https://www.learnstorybook.com/) - A set of tutorials to learn Storybook.
-- [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development)
-- [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM)
-- [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o)
+- [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development) - A tutorial on how to use the Storybook tool as a means of templating and driving forward your development efforts.
+- [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - A tutorial on how to add Storybook in an application generated with Create React App.
+- [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - A tutorial on how to create your components and exposing them in a Storybook.
 
 ## Presentations
 
@@ -52,14 +52,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Blog posts
 
-- [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8)
-- [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/)
-- [Setting up Storybook for Preact](https://www.iamdeveloper.com/blog/2018-09-02-setting-up-storybook-for-preact/)
-- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/)
-- [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od)
-- [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06)
-- [How to Use Storybook in a React Project](https://blog.bam.tech/developper-news/use-storybook-react-project)
-- [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/2017/11/20/storybook-tests-react/)
+- [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - A features' showcase about the biggest release to date.
+- [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - Learn how to build a component library with Vue and Storybook to create modular and reusable components.
+- [Setting up Storybook for Preact](https://www.iamdeveloper.com/blog/2018-09-02-setting-up-storybook-for-preact/) - A handy guide allowing us to add storybook easily on a Preact project.
+- [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) - Learn how to set up a component library with React and Storybook to create modular and reusable components that can be shared across projects.
+- [Storybook - UI component development tool for React, Vue, and Angular (Article focusing on React)](https://dev.to/madhusudhansrinivas/storybook---ui-component-development-tool-for-react-vue-and-angular-article-focusing-on-react-29od) - A brief presentation of Storybook and how to setup on a React application.
+- [Storybook vs Styleguidist](https://blog.hichroma.com/storybook-vs-styleguidist-2bd93d6dcc06) - A comparison of the top UI component explorers.
+- [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/2017/11/20/storybook-tests-react/) - A complete walkthrough of different testing solutions for Storybook: Easy Cross-Browser Visual Checks, Interaction Testing and StoryShots for Snapshot Testing.
 
 ## Examples
 
