@@ -27,7 +27,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Website](https://storybook.js.org) - Storybook's official website.
 - [Documentation](https://storybook.js.org/docs/basics/introduction/) - Storybook's official documentation.
-- [GitHub repo](https://github.com/storybooks) - Storybook's organization on Github.
+- [GitHub organization](https://github.com/storybooks) - Storybook's organization on GitHub.
 - [Use cases](https://storybook.js.org/use-cases/) - Most common use cases about Storybook.
 - [Team](https://storybook.js.org/team/) - The core team of Storybook.
 
