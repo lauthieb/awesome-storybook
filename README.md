@@ -10,28 +10,23 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Contents
 
-- [Resources](#resources)
-  - [Official resources](#official-resources)
-  - [Community resources](#community-resources)
-  - [Tutorials](#tutorials)
-  - [Presentations](#presentations)
-  - [Blog posts](#blog-posts)
+- [Official resources](#official-resources)
+- [Community resources](#community-resources)
+- [Tutorials](#tutorials)
+- [Presentations](#presentations)
+- [Blog posts](#blog-posts)
 - [Examples](#examples)
 - [Addons](#addons)
 
----
+## Official resources
 
-## Resources
+- [Website](https://storybook.js.org)
+- [Documentation](https://storybook.js.org/docs/basics/introduction/)
+- [GitHub organization](https://github.com/storybooks)
+- [Use cases](https://storybook.js.org/use-cases/)
+- [Team](https://storybook.js.org/team/)
 
-### Official resources
-
-- [Website](https://storybook.js.org) - Storybook's official website.
-- [Documentation](https://storybook.js.org/docs/basics/introduction/) - Storybook's official documentation.
-- [GitHub organization](https://github.com/storybooks) - Storybook's organization on GitHub.
-- [Use cases](https://storybook.js.org/use-cases/) - Most common use cases about Storybook.
-- [Team](https://storybook.js.org/team/) - The core team of Storybook.
-
-### Community resources
+## Community resources
 
 - [Twitter](https://twitter.com/storybookjs)
 - [Discord](https://discordapp.com/invite/UUt2PJb)
@@ -41,21 +36,21 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
 - [Storybook Deployer](https://github.com/storybooks/storybook-deployer) - Package for deploying your storybook as a static site.
 
-### Tutorials
+## Tutorials
 
 - [Learn Storybook](https://www.learnstorybook.com/) - A set of tutorials to learn Storybook.
 - [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development)
 - [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM)
 - [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o)
 
-### Presentations
+## Presentations
 
 - [Storybook, le playground qu'il vous faut pour vos composants UI! (FR)](https://www.youtube.com/watch?v=zMpSwo03aKo)
 - [React Storybook Tutorial with Examples - Getting Started with React Storybook](https://www.youtube.com/watch?v=E2c183LS4lA)
 - [React Storybook: Design, Dev, Doc, Debug Components - React Conf 2017](https://www.youtube.com/watch?v=PF0Vi-iIyoo)
 - [VueNYC - Learn Storybook](https://www.youtube.com/watch?v=XN398jfTwQI)
 
-### Blog posts
+## Blog posts
 
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8)
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/)
