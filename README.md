@@ -22,7 +22,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [Website](https://storybook.js.org)
 - [Documentation](https://storybook.js.org/docs/basics/introduction/)
-- [GitHub organization](https://github.com/storybooks)
+- [GitHub organization](https://github.com/storybookjs)
 - [Use cases](https://storybook.js.org/use-cases/)
 - [Team](https://storybook.js.org/team/)
 
@@ -32,9 +32,9 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Discord](https://discordapp.com/invite/UUt2PJb)
 - [Medium](https://medium.com/storybookjs)
 - [DEV.to](https://dev.to/t/storybook)
-- [Brand's materials](https://github.com/storybooks/brand) - Materials for your articles and talks about Storybook.
+- [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
 - [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
-- [Storybook Deployer](https://github.com/storybooks/storybook-deployer) - Package for deploying your storybook as a static site.
+- [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
 
 ## Tutorials
 
@@ -53,7 +53,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Blog posts
 
 - [Storybook 5.0](https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8) - A features' showcase about the biggest release to date.
-- [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - A comprehensive overview of the accessibility testing tools offered in Storybook
+- [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - A comprehensive overview of the accessibility testing tools offered in Storybook.
 - [Using Storybook with VueJS](https://auth0.com/blog/using-storybook-with-vuejs/) - Learn how to build a component library with Vue and Storybook to create modular and reusable components.
 - [Setting up Storybook for Preact](https://www.iamdeveloper.com/blog/2018-09-02-setting-up-storybook-for-preact/) - A handy guide allowing us to add storybook easily on a Preact project.
 - [Setting up a Component Library with React and Storybook](https://auth0.com/blog/setting-up-a-component-library-with-react-and-storybook/) - Learn how to set up a component library with React and Storybook to create modular and reusable components that can be shared across projects.
