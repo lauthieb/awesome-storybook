@@ -52,6 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Blog posts
 
+- [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o)
 - [Storybook 5.2](https://medium.com/storybookjs/storybook-5-2-794958b9b111)
 - [Storybook DocsPage](https://medium.com/storybookjs/storybook-docspage-e185bc3622bf)
 - [Storybook Docs sneak peek](https://medium.com/storybookjs/storybook-docs-sneak-peak-5be78445094a)
