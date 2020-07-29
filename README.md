@@ -35,6 +35,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Brand's materials](https://github.com/storybookjs/brand) - Materials for your articles and talks about Storybook.
 - [Design system](https://storybooks-official.netlify.com) - Storybook's website design system.
 - [Storybook Deployer](https://github.com/storybookjs/storybook-deployer) - Package for deploying your storybook as a static site.
+- [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 
 ## Tutorials
 
