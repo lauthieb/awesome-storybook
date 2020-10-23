@@ -79,7 +79,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Addons
 
-The official & community addons lists are available in the Storybook's [Addon Gallery](https://storybook.js.org/docs/addons/addon-gallery/).
+The official & community addons lists are available on the Storybook's [Addon Page](https://storybook.js.org/addons/).
 
 ## Contributing
 
