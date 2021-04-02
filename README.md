@@ -77,6 +77,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [AXA France Design System](https://axaguildev.github.io/react-toolkit/v1.1.0/storybook/)
 - [Shared React Components Boilerplate](https://github.com/shared-components/shared-react-components-example)
 - [Apideck Components](https://www.apideck.design/)
+- [Decathlon Design System (Vitamin)](https://decathlon.github.io/vitamin-web)
 
 ## Addons
 
