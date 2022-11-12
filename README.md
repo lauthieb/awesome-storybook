@@ -39,12 +39,12 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ## Tutorials
 
-- [Intro to Storybook with React [Tutorial & Example]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
 - [Learn Storybook](https://www.learnstorybook.com/) - A set of tutorials to learn Storybook.
 - [Practical Guide to Storybook-Driven Development](https://dzone.com/articles/practical-guide-to-storybook-driven-development) - A tutorial on how to use the Storybook tool as a means of templating and driving forward your development efforts.
 - [Adding Storybook Style Guide to a Create React App](https://www.youtube.com/watch?v=va-JzrmaiUM) - A tutorial on how to add Storybook in an application generated with Create React App.
 - [Build your components with Storybook](https://www.youtube.com/watch?v=_jttw14T52o) - A tutorial on how to create your components and exposing them in a Storybook.
 - [Storybook React with Full Dark Mode Integration](https://davidyeiser.com/tutorials/storybook-react-with-dark-mode) - A tutorial on how to integrate Storybook’s dark mode toggle with your React components.
+- [Intro to Storybook with React [Tutorial & Example]](https://snipcart.com/blog/storybook-react-tutorial-example) - Learn how to build UI components in Storybook with React for better collaboration from design to implementation.
 
 ## Presentations
 
