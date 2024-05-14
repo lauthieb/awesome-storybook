@@ -81,6 +81,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Apideck Components](https://www.apideck.design/)
 - [Qui - Vue 2/3 Design system](https://github.com/Qvant-lab/qui-max)
 - [Mística Design system](https://mistica-web.vercel.app/?path=/story/welcome-welcome--mistica)
+- [Recharts](https://recharts.org/en-US/storybook)
 
 ## Addons
 
