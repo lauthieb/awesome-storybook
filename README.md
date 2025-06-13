@@ -100,7 +100,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 <summary>2019</summary>
 
 - [How I manage to make my Storybook project the most efficient possible](https://dev.to/loicgoyet/how-i-manage-to-make-my-storybook-project-the-most-efficient-possible-2d8o)
-- [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347) - A comprehensive overview of the accessibility testing tools offered in Storybook.
+- [Real-time accessibility testing with Storybook](https://medium.com/storybookjs/instant-accessibility-qa-linting-in-storybook-4a474b0f5347)
 </details>
 
 <details>
@@ -116,7 +116,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 <details>
 <summary>2017</summary>
 
-- [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/storybook-tests-react/) - A complete walkthrough of different testing solutions for Storybook: Easy Cross-Browser Visual Checks, Interaction Testing and StoryShots for Snapshot Testing.
+- [Five Reasons to Use Storybook Tests](https://spin.atomicobject.com/storybook-tests-react/)
 </details>
 
 ## Contributing
