@@ -36,6 +36,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
 - [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+- [Sherlo](https://github.com/sherlo-io/sherlo) - Visual testing platform for React Native Storybook. Captures screenshots on iOS and Android simulators in the cloud and detects visual changes automatically.
 
 ## Examples
 
