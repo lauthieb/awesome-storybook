@@ -8,6 +8,7 @@
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for Storybook UI development workflow orchestration, automated component management, and multi-agent coordination. MIT licensed.
 ## Contents
 
 - [Official resources](#official-resources)
