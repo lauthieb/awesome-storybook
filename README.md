@@ -36,6 +36,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 - [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
 - [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
+- [Storybook Config Generator](https://draftkit.co/dev-launch-pack/storybook-config-generator.html) - Free browser-based generator that produces a ready-to-commit .storybook/main.ts and preview.ts from a chosen framework (React, Vue 3, Angular, Web Components, Svelte, Preact, Solid, Qwik, Next.js), addons (Essentials, Accessibility, Interactions, Themes, Storysource, Designs), features, builder (Vite or Webpack), stories glob, and global parameters (viewports, backgrounds, actions, dark mode). No signup.
 
 ## Examples
 
