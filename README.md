@@ -50,6 +50,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Qui - Vue 2/3 Design system](https://qui-max.netlify.app/?path=/story/intro--page)
 - [Mística - Design system](https://mistica-web.vercel.app/?path=/story/welcome--welcome)
 - [Recharts - Storybook](https://recharts.org/en-US/storybook)
+- [Bestax - Storybook](https://bestax.io/storybook/)
 
 ## Tutorials
 
