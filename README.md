@@ -37,7 +37,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [DEV.to #storybook](https://dev.to/t/storybook) - Posts about Storybook on DEV.to blogging platform.
 - [Documentation Primitives](https://github.com/DAN-AKL/storybook-documentation-primitives) - Custom DocBlocks for Storybook Docs.
 - [Sherlo](https://sherlo.io) - Visual regression testing for React Native, integrated with Storybook; renders on iOS and Android simulators in the cloud.
-- [UI Verify](https://uiverify.ai) - Visual regression testing for Storybook stories on every pull request, with an AI judge that labels each change as intended, regression or flake.
+- [UI Verify](https://uiverify.ai) - Visual testing for coding agents: screenshots your Storybook stories on every pull request so Claude Code or Cursor can see what their change did to the UI.
 
 ## Examples
 
