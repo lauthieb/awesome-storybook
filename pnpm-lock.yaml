@@ -10,7 +10,7 @@ importers:
     devDependencies:
       awesome-lint:
         specifier: '*'
-        version: 1.2.0
+        version: 1.2.0(supports-color@7.2.0)
 
 packages:
 
@@ -132,8 +132,8 @@ packages:
   balanced-match@1.0.2:
     resolution: {integrity: sha512-3oSeUO0TMV67hN1AmbXsK4yaqU7tjiHlbxRDZOpH0KW9+CeX4bRAaX0Anxt0tx2MrpRpWwQaPwIlISEJhYU5Pw==}
 
-  brace-expansion@1.1.12:
-    resolution: {integrity: sha512-9T9UjW3r0UW5c1Q7GTwllptXwhvYmEzFhzMfZ9H7FQWt+uZePjZPjBP/W1ZEyZ1twGWom5/56TF4lPcqjnDHcg==}
+  brace-expansion@1.1.21:
+    resolution: {integrity: sha512-9zeA+KLZNNzglF2TPKRQEDyx6Yby7daAkuy8MiPzpXPsYDWi/DRM8jmwUDxokQjYqBpv5DgPiwD4h4ZZSy1Ujw==}
 
   braces@3.0.3:
     resolution: {integrity: sha512-yQbXgO/OSZVD2IsiLlro+7Hf6Q18EJrKSEsdoMzKePKXct3gvD8oLcOQdIzGupr5Fj+EDe8gO/lxc1BzfMpxvA==}
@@ -1244,7 +1244,7 @@ snapshots:
       glob-option-error: 1.0.0
       validate-glob-opts: 1.0.2
 
-  awesome-lint@1.2.0:
+  awesome-lint@1.2.0(supports-color@7.2.0):
     dependencies:
       arrify: 3.0.0
       case: 1.6.3
@@ -1261,8 +1261,8 @@ snapshots:
       ora: 8.2.0
       parse-github-url: 1.0.3
       read-pkg: 9.0.1
-      remark: 15.0.1
-      remark-lint: 10.0.1
+      remark: 15.0.1(supports-color@7.2.0)
+      remark-lint: 10.0.1(supports-color@7.2.0)
       remark-lint-blockquote-indentation: 4.0.1
       remark-lint-checkbox-character-style: 5.0.1
       remark-lint-checkbox-content-indent: 5.0.1
@@ -1282,7 +1282,7 @@ snapshots:
       remark-lint-list-item-indent: 4.0.1
       remark-lint-match-punctuation: 0.2.1
       remark-lint-no-auto-link-without-protocol: 3.1.2
-      remark-lint-no-blockquote-without-marker: 6.0.1
+      remark-lint-no-blockquote-without-marker: 6.0.1(supports-color@7.2.0)
       remark-lint-no-emphasis-as-heading: 4.0.1
       remark-lint-no-empty-sections: 4.0.0
       remark-lint-no-file-name-articles: 3.0.1
@@ -1292,9 +1292,9 @@ snapshots:
       remark-lint-no-file-name-outer-dashes: 3.0.1
       remark-lint-no-heading-content-indent: 5.0.1
       remark-lint-no-heading-indent: 5.0.1
-      remark-lint-no-heading-punctuation: 4.0.1
+      remark-lint-no-heading-punctuation: 4.0.1(supports-color@7.2.0)
       remark-lint-no-inline-padding: 4.1.2
-      remark-lint-no-multiple-toplevel-headings: 4.0.1
+      remark-lint-no-multiple-toplevel-headings: 4.0.1(supports-color@7.2.0)
       remark-lint-no-repeat-punctuation: 0.1.4
       remark-lint-no-shell-dollars: 4.0.1
       remark-lint-no-table-indentation: 5.0.1
@@ -1327,7 +1327,7 @@ snapshots:
 
   balanced-match@1.0.2: {}
 
-  brace-expansion@1.1.12:
+  brace-expansion@1.1.21:
     dependencies:
       balanced-match: 1.0.2
       concat-map: 0.0.1
@@ -1395,9 +1395,11 @@ snapshots:
     dependencies:
       type-fest: 1.4.0
 
-  debug@4.4.1:
+  debug@4.4.1(supports-color@7.2.0):
     dependencies:
       ms: 2.1.3
+    optionalDependencies:
+      supports-color: 7.2.0
 
   decode-named-character-reference@1.1.0:
     dependencies:
@@ -1639,20 +1641,20 @@ snapshots:
 
   lru-cache@10.4.3: {}
 
-  mdast-comment-marker@3.0.0:
+  mdast-comment-marker@3.0.0(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-util-mdx-expression: 2.0.1
+      mdast-util-mdx-expression: 2.0.1(supports-color@7.2.0)
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-directive@3.1.0:
+  mdast-util-directive@3.1.0(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
       '@types/unist': 3.0.3
       ccount: 2.0.1
       devlop: 1.1.0
-      mdast-util-from-markdown: 2.0.2
+      mdast-util-from-markdown: 2.0.2(supports-color@7.2.0)
       mdast-util-to-markdown: 2.1.2
       parse-entities: 4.0.2
       stringify-entities: 4.0.4
@@ -1660,14 +1662,14 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-from-markdown@2.0.2:
+  mdast-util-from-markdown@2.0.2(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
       '@types/unist': 3.0.3
       decode-named-character-reference: 1.1.0
       devlop: 1.1.0
       mdast-util-to-string: 4.0.0
-      micromark: 4.0.2
+      micromark: 4.0.2(supports-color@7.2.0)
       micromark-util-decode-numeric-character-reference: 2.0.2
       micromark-util-decode-string: 2.0.1
       micromark-util-normalize-identifier: 2.0.1
@@ -1681,18 +1683,18 @@ snapshots:
     dependencies:
       '@types/mdast': 4.0.4
 
-  mdast-util-mdx-expression@2.0.1:
+  mdast-util-mdx-expression@2.0.1(supports-color@7.2.0):
     dependencies:
       '@types/estree-jsx': 1.0.5
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
       devlop: 1.1.0
-      mdast-util-from-markdown: 2.0.2
+      mdast-util-from-markdown: 2.0.2(supports-color@7.2.0)
       mdast-util-to-markdown: 2.1.2
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-mdx-jsx@3.2.0:
+  mdast-util-mdx-jsx@3.2.0(supports-color@7.2.0):
     dependencies:
       '@types/estree-jsx': 1.0.5
       '@types/hast': 3.0.4
@@ -1700,7 +1702,7 @@ snapshots:
       '@types/unist': 3.0.3
       ccount: 2.0.1
       devlop: 1.1.0
-      mdast-util-from-markdown: 2.0.2
+      mdast-util-from-markdown: 2.0.2(supports-color@7.2.0)
       mdast-util-to-markdown: 2.1.2
       parse-entities: 4.0.2
       stringify-entities: 4.0.4
@@ -1709,23 +1711,23 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-mdx@3.0.0:
+  mdast-util-mdx@3.0.0(supports-color@7.2.0):
     dependencies:
-      mdast-util-from-markdown: 2.0.2
-      mdast-util-mdx-expression: 2.0.1
-      mdast-util-mdx-jsx: 3.2.0
-      mdast-util-mdxjs-esm: 2.0.1
+      mdast-util-from-markdown: 2.0.2(supports-color@7.2.0)
+      mdast-util-mdx-expression: 2.0.1(supports-color@7.2.0)
+      mdast-util-mdx-jsx: 3.2.0(supports-color@7.2.0)
+      mdast-util-mdxjs-esm: 2.0.1(supports-color@7.2.0)
       mdast-util-to-markdown: 2.1.2
     transitivePeerDependencies:
       - supports-color
 
-  mdast-util-mdxjs-esm@2.0.1:
+  mdast-util-mdxjs-esm@2.0.1(supports-color@7.2.0):
     dependencies:
       '@types/estree-jsx': 1.0.5
       '@types/hast': 3.0.4
       '@types/mdast': 4.0.4
       devlop: 1.1.0
-      mdast-util-from-markdown: 2.0.2
+      mdast-util-from-markdown: 2.0.2(supports-color@7.2.0)
       mdast-util-to-markdown: 2.1.2
     transitivePeerDependencies:
       - supports-color
@@ -1872,10 +1874,10 @@ snapshots:
 
   micromark-util-types@2.0.2: {}
 
-  micromark@4.0.2:
+  micromark@4.0.2(supports-color@7.2.0):
     dependencies:
       '@types/debug': 4.1.12
-      debug: 4.4.1
+      debug: 4.4.1(supports-color@7.2.0)
       decode-named-character-reference: 1.1.0
       devlop: 1.1.0
       micromark-core-commonmark: 2.0.3
@@ -1907,7 +1909,7 @@ snapshots:
 
   minimatch@3.1.2:
     dependencies:
-      brace-expansion: 1.1.12
+      brace-expansion: 1.1.21
 
   ms@2.1.3: {}
 
@@ -2161,11 +2163,11 @@ snapshots:
       unist-util-position: 4.0.4
       unist-util-visit: 4.1.2
 
-  remark-lint-no-blockquote-without-marker@6.0.1:
+  remark-lint-no-blockquote-without-marker@6.0.1(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
       devlop: 1.1.0
-      mdast-util-directive: 3.1.0
+      mdast-util-directive: 3.1.0(supports-color@7.2.0)
       mdast-util-phrasing: 4.1.0
       pluralize: 8.0.0
       unified-lint-rule: 3.0.1
@@ -2231,10 +2233,10 @@ snapshots:
       unist-util-position: 5.0.0
       unist-util-visit-parents: 6.0.1
 
-  remark-lint-no-heading-punctuation@4.0.1:
+  remark-lint-no-heading-punctuation@4.0.1(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-util-mdx: 3.0.0
+      mdast-util-mdx: 3.0.0(supports-color@7.2.0)
       mdast-util-to-string: 4.0.0
       unified-lint-rule: 3.0.1
       unist-util-visit-parents: 6.0.1
@@ -2250,11 +2252,11 @@ snapshots:
       unist-util-generated: 2.0.1
       unist-util-visit: 4.1.2
 
-  remark-lint-no-multiple-toplevel-headings@4.0.1:
+  remark-lint-no-multiple-toplevel-headings@4.0.1(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
       devlop: 1.1.0
-      mdast-util-mdx: 3.0.0
+      mdast-util-mdx: 3.0.0(supports-color@7.2.0)
       unified-lint-rule: 3.0.1
       unist-util-visit-parents: 6.0.1
       vfile-message: 4.0.2
@@ -2399,27 +2401,27 @@ snapshots:
       unist-util-visit-parents: 6.0.1
       vfile-message: 4.0.2
 
-  remark-lint@10.0.1:
+  remark-lint@10.0.1(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
-      remark-message-control: 8.0.0
+      remark-message-control: 8.0.0(supports-color@7.2.0)
       unified: 11.0.5
     transitivePeerDependencies:
       - supports-color
 
-  remark-message-control@8.0.0:
+  remark-message-control@8.0.0(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-comment-marker: 3.0.0
+      mdast-comment-marker: 3.0.0(supports-color@7.2.0)
       unified-message-control: 5.0.0
       vfile: 6.0.3
     transitivePeerDependencies:
       - supports-color
 
-  remark-parse@11.0.0:
+  remark-parse@11.0.0(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
-      mdast-util-from-markdown: 2.0.2
+      mdast-util-from-markdown: 2.0.2(supports-color@7.2.0)
       micromark-util-types: 2.0.2
       unified: 11.0.5
     transitivePeerDependencies:
@@ -2431,10 +2433,10 @@ snapshots:
       mdast-util-to-markdown: 2.1.2
       unified: 11.0.5
 
-  remark@15.0.1:
+  remark@15.0.1(supports-color@7.2.0):
     dependencies:
       '@types/mdast': 4.0.4
-      remark-parse: 11.0.0
+      remark-parse: 11.0.0(supports-color@7.2.0)
       remark-stringify: 11.0.0
       unified: 11.0.5
     transitivePeerDependencies:
