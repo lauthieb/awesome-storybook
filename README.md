@@ -52,6 +52,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Mística - Design system](https://mistica-web.vercel.app/?path=/story/welcome--welcome)
 - [Recharts - Storybook](https://recharts.org/en-US/storybook)
 - [Bestax - Storybook](https://bestax.io/storybook/)
+- [ElementsKit UI - Storybook](https://elements-kit.com/storybook/)
 
 ## Tutorials
 
